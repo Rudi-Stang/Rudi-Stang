@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rudi-Stang
-- 👀 I’m interested in Networking, Storage, Windows Automation
-- 🌱 I’m currently learning powershell ImportExcel and other custom modules. Automation is my passion. For Windows automation tasks I also use AutoIT quite a lot.
+- 👀 I’m interested in networking, storage, VMware, Veeam, Windows automation, AutoDesk products.
+- 🌱 I’m currently learning powershell ImportExcel and other custom modules. Automation is my passion. For Windows automation tasks, beside powershell, I also use AutoIT quite a lot.
 - 📫 mobile: +49 171 685 9 685 (also WhatsApp)
 
 <!---
